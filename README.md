@@ -19,6 +19,7 @@ Este projeto utiliza tecnologias front-end (HTML e CSS)para a estruturação da 
 * Como é possivel perceber, temos letras que, a partir do teclado do computador, são usadas para emitir o som. 
 * Também há um espaço para a composição onde é possivel colocar uma sequência de letras que irão gerar o som sequencialmente quando o botão abaixo for clicado. 
 
+### Exemplo de funcionamento abaixo (Ligue o Som):
 
 https://user-images.githubusercontent.com/85655746/215270127-dddf4b91-7e3e-43cf-abce-51fe7272143e.mp4
 
